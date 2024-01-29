@@ -1,0 +1,24 @@
+.nav-links {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  justify-content: center;
+  width: 100%;
+  margin-top: 0;
+}
+
+.nav-link-text:hover {
+  color: rgb(68, 161, 184);
+}
+
+.nav-link-item {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.nav-link-text {
+  color: lightgrey;
+  font-family: Poppins;
+  font-size: 1.25rem;
+  text-decoration: none;
+}

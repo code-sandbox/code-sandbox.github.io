@@ -1,0 +1,25 @@
+i {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  vertical-align: middle;
+  padding-right: 1rem;
+}
+
+.social-links-list {
+  list-style: none;
+  text-align: start;
+  padding-left: 0;
+}
+
+.social-links-list-item {
+  color: whitesmoke;
+  font-family: 'Poppins';
+  flex-flow: row nowrap;
+  padding: 1rem 0;
+  font-size: 1.2rem;
+}
+
+.social-links-list-item:hover {
+  color: black;
+  cursor: pointer;
+}

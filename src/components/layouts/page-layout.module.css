@@ -1,0 +1,19 @@
+.container {
+  margin: 0;
+  font-family: sans-serif;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.heading {
+  color: lightgrey;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 50px;
+  margin: 6rem;
+  margin-bottom: 0;
+}
+  

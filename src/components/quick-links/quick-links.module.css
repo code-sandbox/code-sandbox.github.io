@@ -1,0 +1,25 @@
+.quick-link-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  margin-top: 0;
+  text-align: start;
+}
+
+.quick-link-item:hover {
+  color: black;
+}
+
+.quick-link-list-item {
+  padding: .85rem 0;
+  padding-right: .5rem;
+}
+
+.quick-link-item {
+  color: whitesmoke;
+  font-family: Poppins;
+  font-size: 1.2rem;
+  text-decoration: none;
+}

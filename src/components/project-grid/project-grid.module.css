@@ -1,0 +1,15 @@
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 88vw;
+  margin: auto;
+  margin-bottom: 3rem;
+}
+
+.project-grid-image {
+  margin: auto;
+  margin-bottom: 1rem;
+  width: 350px;
+  height: 350px;
+  border-radius: 15px;
+}
